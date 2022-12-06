@@ -169,7 +169,7 @@ if(isset($_POST['simpan'])) {
                             </td>
                           </tr>
                           <tr>
-                            <td colspan="2" style="text-align: center; padding: 10px; background-color: gray;"><input type="radio" required="required" name="nomor_calon" value="<?php echo $d['no_urut']; ?>"></td>
+                            <td colspan="2" style="text-align: centre; padding: 10px; background-color: gray;"><input type="radio" required="required" name="nomor_calon" value="<?php echo $d['no_urut']; ?>">pilih</td>
                           </tr>
                         </table>
                       </div>
