@@ -898,7 +898,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #646464;
+  color: #333;
   background-color: #fff;
 }
 input,
@@ -910,7 +910,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #646464;
+  color: #428bca;
   text-decoration: none;
 }
 a:hover,
@@ -4640,8 +4640,8 @@ a.thumbnail.active {
   color: inherit;
 }
 .alert-success {
-  color: #ffffff;
-  background-color: #875d29;
+  color: #3c763d;
+  background-color: #dff0d8;
   border-color: #d6e9c6;
 }
 .alert-success hr {
@@ -4651,9 +4651,9 @@ a.thumbnail.active {
   color: #2b542c;
 }
 .alert-info {
-  color: #875d29;
-  background-color: #ffffff;
-  border-color: #d7d7d7;
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
 }
 .alert-info hr {
   border-top-color: #a6e1ec;
